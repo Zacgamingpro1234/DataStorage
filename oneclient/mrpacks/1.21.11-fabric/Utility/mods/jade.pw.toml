@@ -2,15 +2,15 @@ id = "nvQzSEkH"
 enabled = true
 hidden = false
 name = "Jade 🔍"
-filename = "Jade-1.21.11-Fabric-21.1.4.jar"
+filename = "Jade-1.21.11-Fabric-21.1.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/nvQzSEkH/versions/sGI08gfW/Jade-1.21.11-Fabric-21.1.4.jar"
+url = "https://cdn.modrinth.com/data/nvQzSEkH/versions/qIfLWWYm/Jade-1.21.11-Fabric-21.1.5.jar"
 hash-format = "sha512"
-hash = "ea347b48bb5afbec79d1f717dcc4c6a4a19abb65b604136dbf016a17c32a6ff297921b21b5f58e6af76edef7c9ef21a1b8df1cd76d6436bb1e1221449551f8ec"
+hash = "52c21d602663151ab66a6a63c496d7a410b06c7a6fa1a4be585d2d5c3d852ebc0059985e1d78b04f2d9f098b29e64007aef3e45e2113e5fa3b186697aacba916"
 
 [update]
 [update.modrinth]
 mod-id = "nvQzSEkH"
-version = "sGI08gfW"
+version = "qIfLWWYm"
