@@ -126,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix-mvus.pw.toml"
-hash = "077bf5349307d807d5cb1b364306d9e2c530708584ef2b4dbc4538baef192e90"
+hash = "5c646bf82a26a17ddf69ca14981f18cb60328045763f21487204c6bb13030971"
 metafile = true
 
 [[files]]
