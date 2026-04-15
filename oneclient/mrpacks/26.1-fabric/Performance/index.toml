@@ -31,7 +31,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-block-entities.pw.toml"
-hash = "49f988ce3b068c3818203e7b2419540e5eb9faaf28b5947b0560d99edbd06f11"
+hash = "fe3fe252b7067bb7df72d321ce2b9e287c8a46df9a254626b1a4113a1458f430"
 metafile = true
 
 [[files]]
@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
-hash = "969f6a035bc1dd73447e57faf605f00eec58ceda1e0590432db459a6d66dbedd"
+hash = "94272cc0ca5036564a158b2330f945383a63418db41baa8d01af2d413b6ca15e"
 metafile = true
 
 [[files]]
