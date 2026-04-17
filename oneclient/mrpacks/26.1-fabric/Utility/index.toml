@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/commandkeys.pw.toml"
-hash = "59eb8abb312d012a32f8c0a5622687946e119c9628a1ed66bf4fc256b475709e"
+hash = "6618613bb4286b355fbb16e872de5aa053566eb12df50a7fe185c3e5414dcb0b"
 metafile = true
 
 [[files]]
