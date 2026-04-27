@@ -31,7 +31,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-block-entities.pw.toml"
-hash = "fe3fe252b7067bb7df72d321ce2b9e287c8a46df9a254626b1a4113a1458f430"
+hash = "90ddc83f080cf112f2cae6b58a660062b558c58fe07f1b624f0c1e88b8f5f395"
 metafile = true
 
 [[files]]
