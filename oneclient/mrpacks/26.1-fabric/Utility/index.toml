@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "5f2f3ac56815625aba0c9353896569e39bbde089a29b9533bd70cf637aaae3c9"
+hash = "b059e2e44b0b20609838992c453a5ed074061bd9382b483cf7f2db69a04fa0eb"
 metafile = true
 
 [[files]]
@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
-hash = "c8245ffe30c3f99ad0ec06a9283d4d03701bb20fcb6bbb5b9b2a64f61024d639"
+hash = "c5590ea035cbd7d00d21c6a680de67688091246373ad393589a02f947c747df5"
 metafile = true
 
 [[files]]
