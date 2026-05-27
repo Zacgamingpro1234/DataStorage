@@ -41,7 +41,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "38f9517d9508846814b869adaf909846c95066e77ed381124abd3e661e7ce687"
+hash = "dc08c74605f3e691a1f128c2e43109464a231b163ca30fe808edde74b05f547f"
 metafile = true
 
 [[files]]
@@ -206,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "b812e9d6b9200deea8fd70867af1a46a2a3bcf3f653fdff95b2335e440783d0c"
+hash = "679b73bbaa36ad2472902a416bd310aa7290046f27f72d2f9f73bde85eb03705"
 metafile = true
 
 [[files]]
