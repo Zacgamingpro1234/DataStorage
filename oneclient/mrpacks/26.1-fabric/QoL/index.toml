@@ -31,7 +31,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "143623bf9a4d2957b978be949b627c76dc8598f68d2585e0f1dc170c36bf24b6"
+hash = "2ef0d9ef0066e6b98216c7ea9fdf7d243b6390e56dd89994d60284505b26db39"
 metafile = true
 
 [[files]]
@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8b83815b37f06fc29c17b3c7849d1e33b86ae74b394c6559830f05aacb6f8d9d"
+hash = "156ba64b6816dffe8311083df805ed4295a017e6d8cd154a72f91fa2e5106f41"
 metafile = true
 
 [[files]]
