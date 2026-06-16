@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/toggle-toggle-sprint.pw.toml"
-hash = "8e7e5cd553231987aa29d63fe3393c17401789812eaad9d331a2f2a326a2df46"
+hash = "c132c2b8822313a7159386bea49a2f27bd69fef764267ac10aae32e0e1a72177"
 metafile = true
 
 [[files]]

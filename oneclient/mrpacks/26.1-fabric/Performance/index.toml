@@ -31,7 +31,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-block-entities.pw.toml"
-hash = "afa35e518f90e95c9cd38a8b06cd802dc6b0c0af64f5bec112fbd9db0638b8a0"
+hash = "fc646ae8e52526c409fac374310d4dbe204e706ddfb41b0606765d376658f322"
 metafile = true
 
 [[files]]
@@ -61,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "c07d68d1878f239dc53bc82f3563c58d317556bfd7da038eda8d831fe2de3b90"
+hash = "1fc34fb20b1b15ef0b196f6c2d5ec0cb84ecdd6986c9b8697fa262a7d50b363c"
 metafile = true
 
 [[files]]
