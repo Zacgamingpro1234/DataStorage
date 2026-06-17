@@ -56,7 +56,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "fbb961ecd420e4a809fa82abaa91dcf33838a6541b471f4d3e3dfbd5754c625a"
+hash = "5718bc6055bc1ef986c9e66b55712dc6f0ed63046125e42ac495e21d332b9cf6"
 metafile = true
 
 [[files]]
@@ -151,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix-mvus.pw.toml"
-hash = "055e57d06a36cc7c0b6aeb229ea7d8f634cdff9e4f8a4519e3b189bd8930cd8e"
+hash = "089ca8f07e2dff80bd9a83bb8ed1e862294cb2cdf5be11e3f27b28b450b8aff6"
 metafile = true
 
 [[files]]
