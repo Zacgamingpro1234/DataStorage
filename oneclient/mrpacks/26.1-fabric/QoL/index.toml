@@ -6,7 +6,7 @@ hash = "342dbfea1eb1da77369eb859ef22afc55732a7cdeface9a46b63bf4c1c4007d1"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "eaaf71f28cdf1de6950daa77fc2bb5da418183097dacccece16d0c5b37d78bfe"
+hash = "0c16a83461315a5454a9c70345a0386894cad311ecd56e160d6c39ecab384252"
 metafile = true
 
 [[files]]
@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
-hash = "09d8d108c8a59dddbd3b8d752d622644bec411863df259a972e1c8d9099eeeda"
+hash = "431d8ad5fe61b0460ab4a2e72002a803f614581daba6aece3b870d66c55087dd"
 metafile = true
 
 [[files]]
