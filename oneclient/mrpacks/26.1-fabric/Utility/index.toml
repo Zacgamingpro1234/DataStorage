@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/commandkeys.pw.toml"
-hash = "5e4efc0236109fc40bbc5151c70609220bdbc64106367c066ae59d4902aca4e1"
+hash = "ee67f689bef20b41972d41ee6bcd6e318ad32f0288770c7f63a49f47120b1da2"
 metafile = true
 
 [[files]]
@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "d88a77ecbc38edf8c1572321870f1f1e4f0b481682427d860541f3f7ef11e873"
+hash = "a71263e0273b861eee9fc3023338d74f2cea4c7fd4dd344f0e55980c7b2bf6ab"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "2b7b0ab0289b7761ac854cced39e3df9e2e45a4c82487281b946cc202da6aed2"
+hash = "c9159b7f18ee4d7f96b8b0c049e4418d611dffccefee12dce317dbd7ff01a8d5"
 metafile = true
 
 [[files]]
