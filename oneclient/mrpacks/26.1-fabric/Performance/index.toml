@@ -66,7 +66,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "0e7b2d664487b5094bde8a449a9d04fce6746fe78b3bed24229fdae04617fd8c"
+hash = "fcb044c835e953b93900c1b74301db26b833318ad536c1a30102d239a02a1f71"
 metafile = true
 
 [[files]]
@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/quick-pack.pw.toml"
-hash = "0c9dfc7d5b94ec7483c1c8fd3df16eaed341c645a21bb1ce8b7a34b57f711c22"
+hash = "e08b20640e08fb6927697d876a84b4b5621aba1faaf7e41347fcb3fd65096ddf"
 metafile = true
 
 [[files]]
