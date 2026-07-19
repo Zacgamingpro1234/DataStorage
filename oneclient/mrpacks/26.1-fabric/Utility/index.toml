@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/animatium.pw.toml"
-hash = "24731ca801d292c29b52b5c012fd143355619809580ae9c1d2cad4dd8b380779"
+hash = "37f4fd21716f8e6cd7c1ffae1b2df055ffe5fac69f2606f2b95f03e2b529f043"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "f95e7bac057fb9672583626c7bea8d28e79f9f56f68714c25e8be789bbed96b5"
+hash = "24813863b4a59a01b6d04a763d845615c7a98a3d1e8af0c6c8cd63eb663a8e20"
 metafile = true
 
 [[files]]
@@ -137,5 +137,5 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "21b7720009020d5d0257287ac272df2ac9a55d4f787d1effeefef3527d271d30"
+hash = "59fcce1ec87b77cce50e9aa31b93293dbf31b6dbd6ebe6a093ffbff3cb9a3220"
 metafile = true
