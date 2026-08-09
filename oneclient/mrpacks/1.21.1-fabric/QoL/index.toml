@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "378172a19e329eb58ec7e4e9e37c3d8d36ec7a2c934d7df267302bdade39b3fd"
+hash = "df8aa0d710ea78068f62f45fa2af438280a10c3ee5462821a43a6a2700a2af4e"
 metafile = true
 
 [[files]]
