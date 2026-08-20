@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "d57bdbcb6d4681def5626a0b40887e744c41fc8eed351f301ec0165128f423dc"
+hash = "0f8e0dad65a7b42b966bd134871131257aea2ab2d927ba26b3ec19f4bf2f816d"
 metafile = true
 
 [[files]]
