@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "5d323458f6b91ad1d0ad9cb78f0af5fe5b0d0b3864dac25b4fdfa7ff972dbade"
+hash = "8acd9109868ee2b1132dd7125aab42e1578f1d95b01d8201758ae85c29f0a495"
 metafile = true
 
 [[files]]
@@ -96,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "c78003b5d48d7b6e1a2d56ae053b77aa8febf2c8bf71b2529837cf96d322f6f5"
+hash = "e271a04828e7055815941e012ee758e9abac379a36f5fbb03ac4f4bba438e624"
 metafile = true
 
 [[files]]
