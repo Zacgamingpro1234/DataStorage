@@ -71,12 +71,12 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "bfd76f9ba67d16f9ebade50815f71eb41cfe39264ae1c5d47cf87ec7d3082a59"
+hash = "93bfb959b68bfe993417e932f229a22f6fa966db608ffa22e21b76e60535d4c8"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "8acd9109868ee2b1132dd7125aab42e1578f1d95b01d8201758ae85c29f0a495"
+hash = "2c11de9b9d8841282aa011e12c8fb871b9eaa0681cd6fe620ef1ed3872ade442"
 metafile = true
 
 [[files]]
@@ -116,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/nbt-autocomplete.pw.toml"
-hash = "c0fa0ba1fd8cd3649858f319c53f75fd68fd6960980c37fe2e0fe6275569d22a"
+hash = "897aef28eab08173d28d2fb067310894cb8cf6b24bd1d5865d0a4bc430072e20"
 metafile = true
 
 [[files]]
@@ -236,10 +236,10 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "b5d3e48577c0e74123d85a5e38440dc8dd26c3f6da82af325e7c407692f4d1ad"
+hash = "9a51d211b85f805d9f433ea3a40fe9481a646442d118334b57498a8d4bb1b1c6"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "71e811c07a050ff3eed0d7837839f696be60e96e10c9c1c73244b8372b2214ae"
+hash = "430ae50ec97e1921bb5c0b04b0c5e18b9bba6736fe49173a9a87f783b9d0fa55"
 metafile = true
