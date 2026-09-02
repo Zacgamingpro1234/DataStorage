@@ -96,12 +96,12 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "8c2868cc24f045a2bcb8e7dc109d6a67f69998cce55480f7a1aaccea93e66714"
+hash = "93ec05267f2af039555e9c383e41778d630eee782dbee0132cd255d975f5586b"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "6a4687a40eaf876f3af88540ff99f72ce423eca3be6b6c023bd4092187a365bc"
+hash = "aefaefd8f6a09f620b25ff8077c9d389c374c9120f5bba0f023b85807e194263"
 metafile = true
 
 [[files]]
@@ -346,10 +346,10 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "b5d3e48577c0e74123d85a5e38440dc8dd26c3f6da82af325e7c407692f4d1ad"
+hash = "9a51d211b85f805d9f433ea3a40fe9481a646442d118334b57498a8d4bb1b1c6"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "71e811c07a050ff3eed0d7837839f696be60e96e10c9c1c73244b8372b2214ae"
+hash = "430ae50ec97e1921bb5c0b04b0c5e18b9bba6736fe49173a9a87f783b9d0fa55"
 metafile = true
