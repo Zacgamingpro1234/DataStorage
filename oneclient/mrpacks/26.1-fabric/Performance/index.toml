@@ -161,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/serverpingerfixer.pw.toml"
-hash = "1d041cb11a878c74862e7e3fbef00be727abde4926a7715e07e445d443c63961"
+hash = "5eff3490fe428b5c4245d3eddc407d10b4d99970544b87650063bc271c09fd75"
 metafile = true
 
 [[files]]
