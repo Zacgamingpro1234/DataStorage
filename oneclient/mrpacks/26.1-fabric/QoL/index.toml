@@ -86,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "29c8ab8a604e799127815a4ab61392dd7e58a5ae9d2f64794ab42020ac565bf6"
+hash = "873e39381b565bbb654c5bcf1b8ff637df9a1c9542c4448af302125dfc194d10"
 metafile = true
 
 [[files]]
@@ -216,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "3a73b21eaef49dec3ebc002503553f5520ecb1a3ec82f1e45777a019771cbbc8"
+hash = "5303a4d58080ec61346929f8c7bd3565c8ca5256c2a646f4e99ec6e6a99aa58f"
 metafile = true
 
 [[files]]
