@@ -241,5 +241,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "430ae50ec97e1921bb5c0b04b0c5e18b9bba6736fe49173a9a87f783b9d0fa55"
+hash = "f803502e86bf5be40346fc486c673efc307df0e95a70004b5d07aafacff9f90e"
 metafile = true
