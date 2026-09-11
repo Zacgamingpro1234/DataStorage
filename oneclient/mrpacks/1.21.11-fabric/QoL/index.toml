@@ -206,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "6dac9461ffcff0484caa1d4d14aba09403930a5c586ae736b6fce0bff55b3e1b"
+hash = "c790e4ee2d10eb32a7b2b8910a150ab755751886322d7a92e6af419670e8e94e"
 metafile = true
 
 [[files]]
@@ -351,5 +351,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "430ae50ec97e1921bb5c0b04b0c5e18b9bba6736fe49173a9a87f783b9d0fa55"
+hash = "f803502e86bf5be40346fc486c673efc307df0e95a70004b5d07aafacff9f90e"
 metafile = true
