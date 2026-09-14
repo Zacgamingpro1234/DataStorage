@@ -2,15 +2,15 @@ id = "4H6sumDB"
 enabled = true
 hidden = false
 name = "Euphoria Patches"
-filename = "EuphoriaPatcher-1.10.2-r5.9.2-fabric.jar"
+filename = "EuphoriaPatcher-1.10.3-r5.9.2-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/4H6sumDB/versions/Rx7hZuxB/EuphoriaPatcher-1.10.2-r5.9.2-fabric.jar"
+url = "https://cdn.modrinth.com/data/4H6sumDB/versions/oWdNoeAG/EuphoriaPatcher-1.10.3-r5.9.2-fabric.jar"
 hash-format = "sha512"
-hash = "f18a73538eb5bb7a23c256fe5d9ec6ab98bfacad15852562bf804968e7fc7e8342ec796f9c51a6f36b5e8f9ef4e0e3fe392de61fd859c78ad0d84a3a301f02e3"
+hash = "52128c945464bc6f1c03e3bcbf29b0ea7b79320873482d6c5bd5573f72a760bad51cf5ae62c94e560825de39c90b3ac843529928f48b4b20e65bed4397080b9c"
 
 [update]
 [update.modrinth]
 mod-id = "4H6sumDB"
-version = "Rx7hZuxB"
+version = "oWdNoeAG"
