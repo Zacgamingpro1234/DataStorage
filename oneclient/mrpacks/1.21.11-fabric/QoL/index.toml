@@ -346,10 +346,10 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "214b4ca73688c9c68c00a39caebd65062d09434e720079a537a5ef493cd0a878"
+hash = "769bb00391876c7ccf5fef4bdd5c245ff3149b2467f7ea83217873529ee4bf57"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "f803502e86bf5be40346fc486c673efc307df0e95a70004b5d07aafacff9f90e"
+hash = "fbe964ac9a99a418ad6f4c65caea2561aef90dc1eb74e5c3cd04ad9a02bdb34d"
 metafile = true
