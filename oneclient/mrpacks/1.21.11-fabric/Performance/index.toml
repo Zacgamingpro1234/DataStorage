@@ -116,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "1b7e33939272407738d8908c25a1a5943fab36b4c31ddde865d8cc79d1f9334d"
+hash = "26697bdf047d77ec7682d7f4001bcf4dbdf5683cd7a8f1415bf9bac7e4fd78e0"
 metafile = true
 
 [[files]]
