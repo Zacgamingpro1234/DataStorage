@@ -2,15 +2,15 @@ id = "eByvfL7B"
 enabled = true
 hidden = false
 name = "Toggle Toggle Sprint"
-filename = "toggle-toggle-sprint-1.4.1+26.1.jar"
+filename = "toggle-toggle-sprint-1.4.2+26.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/eByvfL7B/versions/qXhfQi2E/toggle-toggle-sprint-1.4.1%2B26.1.jar"
+url = "https://cdn.modrinth.com/data/eByvfL7B/versions/tM0IvGII/toggle-toggle-sprint-1.4.2%2B26.1.jar"
 hash-format = "sha512"
-hash = "16d6749b719951befe6c3d3b3b71e6b63b57edc0d5b535e9f561c171b44441f25d8a25cda1c51ff28d6894806e14211d97ff6ff1c4e2ce933cb3eaf1c978bbe2"
+hash = "b59ede4905c540b01864000d35db8a56ef1cfb487cd3c63e7967aea535a7be3c3ee2a234ad47023e5ab3c83a9db61f5972ffb4306bc3a1231788d14c31f52a29"
 
 [update]
 [update.modrinth]
 mod-id = "eByvfL7B"
-version = "qXhfQi2E"
+version = "tM0IvGII"
