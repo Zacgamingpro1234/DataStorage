@@ -2,15 +2,15 @@ id = "9mtu0sUO"
 enabled = true
 hidden = false
 name = "Fast IP Ping"
-filename = "fast-ip-ping-v1.0.11-mc1.21.10-fabric.jar"
+filename = "fast-ip-ping-v1.0.12-mc1.21.10-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/9mtu0sUO/versions/CZ4MiQnt/fast-ip-ping-v1.0.11-mc1.21.10-fabric.jar"
+url = "https://cdn.modrinth.com/data/9mtu0sUO/versions/WHdVDthO/fast-ip-ping-v1.0.12-mc1.21.10-fabric.jar"
 hash-format = "sha512"
-hash = "703a30e04d1c4103935fa375f3cab0b54e2c516565d4ac84d5a9d12d938d724a333219da27fffc11d384ba472672496830814e78b23c2c3dcb49933a78973f6e"
+hash = "5b35d3eda2ea6da9c180436725d3975ef65c4b741a996a49a4da91a727e26b98060452bf5f44a253134fcd5edbb7338962408027d1c0929dcb5b4828ec5ffca4"
 
 [update]
 [update.modrinth]
 mod-id = "9mtu0sUO"
-version = "CZ4MiQnt"
+version = "WHdVDthO"
