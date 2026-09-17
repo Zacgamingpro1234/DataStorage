@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "2c11de9b9d8841282aa011e12c8fb871b9eaa0681cd6fe620ef1ed3872ade442"
+hash = "cccb3afd6addd154df72d95de018ba9c94c45d3bd928385255bc86f978035107"
 metafile = true
 
 [[files]]
