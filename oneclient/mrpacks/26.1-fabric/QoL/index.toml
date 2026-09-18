@@ -6,7 +6,7 @@ hash = "342dbfea1eb1da77369eb859ef22afc55732a7cdeface9a46b63bf4c1c4007d1"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "0c16a83461315a5454a9c70345a0386894cad311ecd56e160d6c39ecab384252"
+hash = "7ba5b2ffa97396132eb0d40524a61746778016cb9518a8f90483759e7e11f723"
 metafile = true
 
 [[files]]
@@ -41,7 +41,7 @@ metafile = true
 
 [[files]]
 file = "mods/confirm-disconnect.pw.toml"
-hash = "4df0e267631bcac9aa3297cf169fcdec7c54f3dfdba9cd5736aeb2dd6cb49996"
+hash = "c782a2017be5809e8191212953dd1d721f638f23247757f9d260f3e7c2c77a62"
 metafile = true
 
 [[files]]
@@ -71,12 +71,12 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "6305213918dad366aa736fce2141756128f76864cfa8de39f0497c00a4ad35f3"
+hash = "08fc0ff6fae796b501a5a572dd9fed31ae14818b515bad79eaf1ca3beda6ecec"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "b711d1555c75e238eba0115cd5835dc6dc25e92543fb00bae4396ebe25ba2cce"
+hash = "6c69e8c75064fbba88e5cc4ec7280f9397452544af0f1b79cd9636f42b7f2da8"
 metafile = true
 
 [[files]]
@@ -216,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "5303a4d58080ec61346929f8c7bd3565c8ca5256c2a646f4e99ec6e6a99aa58f"
+hash = "21a7140ae52333b7c3375249fb7e4a00f857e8546de7cfd7edae5cab262cbee7"
 metafile = true
 
 [[files]]
