@@ -6,7 +6,7 @@ hash = "342dbfea1eb1da77369eb859ef22afc55732a7cdeface9a46b63bf4c1c4007d1"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "6f417cc2e8b6b79e8cf77d75fb289e74086230986a0cd14d31acca625cf8f62b"
+hash = "b2db2bf67edf2e3ae4bd8234220cab9152fe42ae5e02a252072ae146c4eeca75"
 metafile = true
 
 [[files]]
@@ -266,7 +266,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyboxify.pw.toml"
-hash = "111dd5990c476b22acaf1a6b9965bbaecf801125a39652143438d5ed4f31c628"
+hash = "2d597c2917c1ffc592a29aec163b5a623cf8f36593d062be9a43436c01a1afa0"
 metafile = true
 
 [[files]]
