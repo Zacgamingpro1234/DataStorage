@@ -166,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/nbt-autocomplete.pw.toml"
-hash = "d06fcb791bf34967f9eff0f9513af6f7060d7b52673a5a712aa310edba24a9fd"
+hash = "ba795f000dc94a913fa87beb99ad2d78f9e88693f4362e81410e0c39c0265228"
 metafile = true
 
 [[files]]
