@@ -356,7 +356,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "57300d81cbd29c671362d559f4692f91d6d14b47e6576d0f6c59795ea8fed65c"
+hash = "1e157fac0eaf2a0bacf94e042745ed0acfd841d5efb7f590a5d46dbdbfa03190"
 metafile = true
 
 [[files]]
