@@ -116,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/nbt-autocomplete.pw.toml"
-hash = "897aef28eab08173d28d2fb067310894cb8cf6b24bd1d5865d0a4bc430072e20"
+hash = "6377b3bcb9996e602c72d59708f8a86a9b2bfebf42820060ad69fc502abcd80d"
 metafile = true
 
 [[files]]
@@ -221,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "aaa40294199eb7212bfb6f3379d08789d66c0227c06daa51181bd1f12f106cf2"
+hash = "1a265f538bf4e7d38f1d024e420d7cbaed66bd0d0d8fe2dc401cdab50e931360"
 metafile = true
 
 [[files]]
@@ -231,7 +231,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "1e157fac0eaf2a0bacf94e042745ed0acfd841d5efb7f590a5d46dbdbfa03190"
+hash = "7daa21e458168c23d84b3c7be6359dba49ac2d3d58c397e5a20eccacfaa041ff"
 metafile = true
 
 [[files]]
