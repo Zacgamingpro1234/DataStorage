@@ -2,15 +2,15 @@ id = "Q1vvjJYV"
 enabled = true
 hidden = false
 name = "BSL Shaders"
-filename = "BSL_v10.1.7.zip"
+filename = "BSL_v10.1.8.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Q1vvjJYV/versions/sUOU7Iv2/BSL_v10.1.7.zip"
+url = "https://cdn.modrinth.com/data/Q1vvjJYV/versions/Y68yiql9/BSL_v10.1.8.zip"
 hash-format = "sha512"
-hash = "f2dfda73bc29d7561f58a96096d03277f8126a713f60984c435e79555b3f18ef55e3131890e7f4a8cdb3323c4891b1eb6264c6d774150f44db8aa2f35ea9120c"
+hash = "94a3c25d6820868db624e11347873e6b572e7cd571967d9ac6f4690ca5d37ca302a7645d85eec800e0654541e3825fba14d37b5a25d3996aaf038178552be26f"
 
 [update]
 [update.modrinth]
 mod-id = "Q1vvjJYV"
-version = "sUOU7Iv2"
+version = "Y68yiql9"

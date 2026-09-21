@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "422d8aa98ae6bf490887887cab01dd3098cb06f000d9badc901b6ea6746d653f"
+hash = "0458dae3525e9132dcdf9639d8b82ae6fbed2d0c865fa8d3519ea7c05c7f55ea"
 metafile = true
 
 [[files]]
