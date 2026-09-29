@@ -151,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix-mvus.pw.toml"
-hash = "089ca8f07e2dff80bd9a83bb8ed1e862294cb2cdf5be11e3f27b28b450b8aff6"
+hash = "43f3f7a666aadf043add8c3b607f7ce6ce4cbf3118e6b2f65f20bc18a9d276ca"
 metafile = true
 
 [[files]]
@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/quick-pack.pw.toml"
-hash = "3a3b85a582d7c36eeb1c4f8ac691ca0393538f477539d15c97252e24bea94a35"
+hash = "2c1d6681a5b57efdd457454c959d906001f3fb4b0cecd950c9ad9e090a5f2fc4"
 metafile = true
 
 [[files]]
