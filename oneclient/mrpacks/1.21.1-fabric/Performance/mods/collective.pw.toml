@@ -2,15 +2,15 @@ id = "e0M1UDsY"
 enabled = true
 hidden = true
 name = "Collective"
-filename = "collective-1.21.1-8.44.jar"
+filename = "collective-1.21.1-8.45.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/e0M1UDsY/versions/fU4ny9D4/collective-1.21.1-8.44.jar"
+url = "https://cdn.modrinth.com/data/e0M1UDsY/versions/VylRmeyw/collective-1.21.1-8.45.jar"
 hash-format = "sha512"
-hash = "be0f1c5a49b23978cbb98cd56a78b7befb8f77141195310e39bb7d51a5624a6bce2f26bce37520520315b121ad16ec0dc1f6326e983a4cee22fc3e8f77260735"
+hash = "9ab3f8596ec66c48e1f9d06bad69804b8fea3991f7a20096afa0c4d1e5452c92108406ce2215ee30a8b4faad1c9b8654ccafd105c9da0af0a5d6c54839431806"
 
 [update]
 [update.modrinth]
 mod-id = "e0M1UDsY"
-version = "fU4ny9D4"
+version = "VylRmeyw"
