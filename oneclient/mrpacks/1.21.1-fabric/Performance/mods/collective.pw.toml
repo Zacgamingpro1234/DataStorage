@@ -2,15 +2,15 @@ id = "e0M1UDsY"
 enabled = true
 hidden = true
 name = "Collective"
-filename = "collective-1.21.1-8.46.jar"
+filename = "collective-1.21.1-8.47.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/e0M1UDsY/versions/ivQ5nygr/collective-1.21.1-8.46.jar"
+url = "https://cdn.modrinth.com/data/e0M1UDsY/versions/jSut2GCG/collective-1.21.1-8.47.jar"
 hash-format = "sha512"
-hash = "10b270cbf8f9564b0369da81ebe04c08972b34152a47a461d4abb6740a5b2006a82691ca6fdfedd69221c8454859392d3d314f1012df2b51bbaed174c36d93bc"
+hash = "d78977021dbdd5a13d6b65e896cb3f140b197138f451d8e9d59be68ff002f4e41f8572922c03ef03af77819c8ea10fe2d8419afd0557ddc652cdf9901f0ad662"
 
 [update]
 [update.modrinth]
 mod-id = "e0M1UDsY"
-version = "ivQ5nygr"
+version = "jSut2GCG"
