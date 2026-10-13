@@ -2,15 +2,15 @@ id = "wdLuzzEP"
 enabled = true
 hidden = false
 name = "Gamma Utils (Fullbright)"
-filename = "Gamma-Utils-3.0.0+mc26.1.jar"
+filename = "Gamma-Utils-Fabric-3.0.2+mc26.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/wdLuzzEP/versions/HhjXbCFQ/Gamma-Utils-3.0.0%2Bmc26.1.jar"
+url = "https://cdn.modrinth.com/data/wdLuzzEP/versions/mXsguE6E/Gamma-Utils-Fabric-3.0.2%2Bmc26.1.jar"
 hash-format = "sha512"
-hash = "8c42ae2fdea201c676c995044717671e1f21c19ae4da99ff0a3323082b224817721d511f96f276ee29d763124652174352ee578d70b5019af5b4f3814d8eb93b"
+hash = "c464f44f2134e39a83477dbf5c6cc4fefe5c6b16becf389b9b4e57da49290d8f9888900612a5d416cb78cfa833b8958d7a71991a69100c2de07234ef5af64006"
 
 [update]
 [update.modrinth]
 mod-id = "wdLuzzEP"
-version = "HhjXbCFQ"
+version = "mXsguE6E"
